@@ -1,4 +1,4 @@
-### Olá, eu sou Felipe Delph | Hello, I'm Felipe Delph
+### Olá, eu sou Felipe Barcelos | Hello, I'm Felipe Barcelos
 ##
 📚 Sou formado em anlise e desenvolvimento de sistemas | I have a degree in system analyst and developer. <br>
 🎯 Estou atualmente estudando alguns frameworks do javaScript. | I’m currently learning some javaScript frameworks.<br>
